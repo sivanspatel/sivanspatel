@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about IOT, or any tech releted stuff.
-- 📫 How to reach me: https://twitter.com/sivans_patel https://www.youtube.com/c/ShivanshPatel
+- 📫 How to reach me: [Twitter - @sivans_patel](https://twitter.com/sivans_patel) [Youtube - @shivanshpatel](https://www.youtube.com/c/ShivanshPatel)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spent almost 2-3 Hours listening songs everyday!
