@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/92/ad/01/92ad010f4ae14e0e55199b1034c4f387.gif)
 <h1 align="center">Hi 👋, I'm Shivansh Patel</h1>
 <h3 align="center">A Passionate Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivanspatel&label=Profile%20views&color=0e75b6&style=flat" alt="sivanspatel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivanspatel" alt="sivanspatel" /></a> </p>
