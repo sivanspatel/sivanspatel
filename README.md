@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/shivans_patel" target="blank"><img src="https://img.shields.io/twitter/follow/shivans_patel?logo=twitter&style=for-the-badge" alt="shivans_patel" /></a> </p>
 
-- 🌱 I’m currently learning **Python Programming**
+- 🌱 I’m currently learning **Dart Programming**
 
 - 💬 Ask me about **IoT, or any tech releted stuff**
 
